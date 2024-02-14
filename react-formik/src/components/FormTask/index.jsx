@@ -96,3 +96,12 @@ const FormTask = () => {
 };
 
 export default FormTask;
+
+/*
+
+
+ [3,1,-2,-5,2,-4]
+
+
+
+*/
